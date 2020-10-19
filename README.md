@@ -1,5 +1,5 @@
-# Game-Wiki-Client
-A front-end template designed to allow users to find information about a video game!
+# Item Finder
+A front-end template designed to help players obtain various items in a video game.
 
 # Sitemap
 
